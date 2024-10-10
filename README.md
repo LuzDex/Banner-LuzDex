@@ -14,4 +14,4 @@ This Python script allows you to create a custom terminal banner with different 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PythonBannerScript.git
+   git clone https://github.com/LuzDex/PythonBannerScript.git
